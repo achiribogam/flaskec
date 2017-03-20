@@ -15,3 +15,4 @@ Passwords should be stored as hashes so that if a hacker gets access, he won't b
 - Add login functionality using hash to member/views/login (and add import bcrypt)
 - Add logout functionality on user/views
 - Add a temporary "Welcome, username - logout" on /admin
+HOLA MUNDO !!!!
